@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz Dapp</string>
+    <string name="deploy_smart_contract">Deploy Smart Contract</string>
+</resources>
